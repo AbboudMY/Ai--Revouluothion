@@ -1,8 +1,8 @@
-import AiBenefits from "../component/aiBenefits";
-import AiTypes from "../component/aiTypes";
-import Content from "../component/content";
-import Footer from "../component/footer";
-import HeroSection from "../component/heroSection";
+import AiBenefits from "../component/AiBenefits";
+import AiTypes from "../component/AiTypes";
+import Content from "../component/Content";
+import Footer from "../component/Footer";
+import HeroSection from "../component/HeroSection";
 import Navbar from "../component/Navbar";
 
 const Home = () => {
