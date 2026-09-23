@@ -143,7 +143,7 @@ const AiBenefits = () => {
   return (
     <section
       id="benefits"
-      className="app-container py-16 bg-linear-to-b   from-dark to-pink-900 rounded-2xl text-white"
+      className="app-container py-16 bg-linear-to-b   from-dark to-indigo-900 rounded-2xl text-white"
     >
       <div className="text-center mb-12">
         <span className="section-subheader">AI Benefits</span>
