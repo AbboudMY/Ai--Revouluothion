@@ -189,7 +189,7 @@ html {
   }
 
   .footer-bottom-link-group {
-    @apply flex space-x-6 mt-4 md:mt-0;
+    @apply flex space-x-4 md:space-x-6 mt-4 md:mt-0;
   }
 
   .footer-bottom-link {
