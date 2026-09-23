@@ -63,7 +63,7 @@ html {
 
   /* Benefit cards */
   .benefit-card {
-    @apply bg-gray-800/40 backdrop-blur-lg shadow hover:shadow-2xl shadow-indigo-700/20 rounded-xl p-6 border border-white/15 hover:border-primary/60 transition-all;
+    @apply bg-gray-800/40 backdrop-blur-lg shadow hover:shadow-2xl shadow-indigo-600/40 rounded-xl p-6 border border-white/15 hover:border-primary transition-all duration-500;
   }
 
   .benefit-card-icon {
@@ -128,7 +128,7 @@ html {
   }
 
   .contact-text {
-    @apply mt-1 text-gray-600;
+    @apply text-sm text-gray-600;
   }
 
   .contact-info-group {
