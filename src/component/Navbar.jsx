@@ -14,9 +14,7 @@ const Navbar = () => {
     <nav className="bg-white/80 backdrop-blur-md shadow-sm w-full z-50 fixed">
       <div className="app-container flex justify-between items-center h-16">
         {/* LOGO */}
-        <span className="gradient-text text-2xl font-bold">
-          Ai Revouloution
-        </span>
+        <span className="gradient-text text-2xl font-bold">AI Revolution</span>
 
         {/* DESKTOP LINKS */}
         <div className="hidden md:flex items-center space-x-4">
