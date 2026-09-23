@@ -54,11 +54,9 @@ const HeroSection = () => {
         <div className="relative w-full h-80 md:h-140">
           <img
             className="w-full h-full object-cover rounded-2xl"
-            hero-section
             src={
               "https://images.unsplash.com/photo-1679362006962-fd1082ab803c?q=80&w=1228&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             }
-            hero-section
             alt="hero section"
           />
           <div className="absolute -z-1 w-50 h-50 rounded-full bg-secondary/50 -bottom-12 -left-20 blur-3xl"></div>

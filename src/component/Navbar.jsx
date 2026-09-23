@@ -11,7 +11,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
 
   return (
-    <nav className="bg-white/80 backdrop-blur-md shadow-sm w-full z-50 fixed">
+    <nav className="bg-white/80 backdrop-blur-sm shadow-sm w-full z-50 fixed">
       <div className="app-container flex justify-between items-center h-16">
         {/* LOGO */}
         <span className="gradient-text text-2xl font-bold">AI Revolution</span>
